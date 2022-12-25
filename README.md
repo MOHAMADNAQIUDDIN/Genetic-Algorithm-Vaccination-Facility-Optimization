@@ -1,2 +1,4 @@
 # Genetic-Algorithm-Vaccination-Facility-Optimization
 Vaccination Facility Allocation Optimization
+
+Facility site optimization (also known as facility placement allocation) is a typical challenge in urban infrastructure constructions (such as hospitals, schools, parks, and community services). Malaysia's level of living and household per capita income have risen dramatically. One of the keys to obtaining a high standard in healthcare is more methodical and efficient planning, which has become increasingly vital. The Location-Allocate(LA) Model was created specifically to address these issues. We look at the algorithms that were used to create the facility localization model in this study. Genetic Algorithm (GA) is one of the algorithms that has been applied to the LA model in this project.
